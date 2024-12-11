@@ -22,4 +22,4 @@ I'm thrilled to share my latest data science project: **Fake News Classification
 
 ---
 
-📓 **Kaggle Notebook**: Check out the full code and analysis [here](https://lnkd.in/dxqkpkxB).
+📓 **Kaggle Notebook**: Check out the full code and analysis [here]([https://lnkd.in/dxqkpkxB](https://www.kaggle.com/code/hamoi9/fake-news-classification)).
